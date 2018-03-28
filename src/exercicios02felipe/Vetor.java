@@ -14,12 +14,10 @@ public class Vetor {
             
         
         /* Construtor */
-        public Vetor(int size){}
+        public Vetor(int size){
             int vet[];
-            public Vetor(int size){
-                vet= new int[size];
-            }
-        
+                vet =new int [size];
+        }         
         /* Preenche o vetor com valores aleatórios*/
          public void randomFill(){}
          
