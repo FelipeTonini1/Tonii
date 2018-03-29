@@ -18,5 +18,7 @@ public class Exercicios02Felipe {
         Vetor v1 = new Vetor(10);
         v1.randomFill();
         System.out.println(v1.toString());
+        
+        
     }
 }
